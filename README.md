@@ -9,7 +9,7 @@
 
 - add feature-c
 
-## not released
+## release-3
 
 - add feature-d
 - add feature-e
