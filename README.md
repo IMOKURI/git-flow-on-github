@@ -12,3 +12,4 @@
 ## not released
 
 - add feature-d
+- add feature-e
