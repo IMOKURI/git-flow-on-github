@@ -8,3 +8,7 @@
 ## release-2
 
 - add feature-c
+
+## not released
+
+- add feature-e
