@@ -5,6 +5,6 @@
 - add feature-a
 - add feature-b
 
-## not released
+## release-2
 
 - add feature-c
